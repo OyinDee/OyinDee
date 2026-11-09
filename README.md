@@ -1,7 +1,11 @@
 <h1 align="center">Oyindamola Àjàlá</h1>
 
 <p align="center">
-  <b>Full-stack engineer</b> · Node.js / TypeScript · C# / .NET · React
+  <b>Full-stack engineer</b> · Node.js / TypeScript · C# / .NET · React · Python
+</p>
+
+<p align="center">
+  <sub>Express · NestJS · ASP.NET Core · MongoDB · PostgreSQL · SQL Server · Redis · Prisma · Socket.IO · Tailwind · Docker · Azure · Vercel</sub>
 </p>
 
 <p align="center">
