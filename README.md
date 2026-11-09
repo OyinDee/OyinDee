@@ -27,6 +27,9 @@ transaction integrity, and interfaces other people can actually use.
 | Project | What it is | Stack |
 |---|---|---|
 | **[Coop-Software](https://github.com/OyinDee/Coop-Software)** | Cooperative society management: member savings, loans, commodity purchases, bank records and month-end reconciliation. | React · Vite · Node · SQL |
+| **[byte-react](https://github.com/OyinDee/byte-react)** | React client for the MongoByte food-ordering platform: group orders, reorder, payments, discounts and notifications. | React · JavaScript · REST |
+| **[wispah](https://github.com/OyinDee/wispah)** | Next.js client for Wispa, the anonymous messaging platform. | Next.js · TypeScript · Tailwind |
+| **[portfolio-website](https://github.com/OyinDee/portfolio-website)** | Personal portfolio site. | Next.js · TypeScript |
 | **[ARMS](https://github.com/OyinDee/ARMS)** | Cloud attendance and record management: JWT with refresh tokens, role-based access for admin, lecturer and student, session-code check-in. | React · Express · MongoDB · Swagger |
 | **[Wispa / dontsay](https://github.com/OyinDee/Dontsay-backend)** | Anonymous messaging with threads, sender aliases, expiring messages, QR sharing and live presence. | React · Socket.IO · MongoDB |
 | **[manuapal](https://github.com/OyinDee/manuapal)** | Manuals platform where users browse, unlock and pay for manuals. | React · Express · MongoDB · Swagger |
