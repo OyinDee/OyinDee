@@ -1,7 +1,7 @@
 <h1 align="center">Oyindamola Àjàlá</h1>
 
 <p align="center">
-  <b>Full-stack engineer</b> · Node.js / TypeScript · C# / .NET · React · Python
+  <b>Full-stack engineer</b> · Node.js / NESTJS / TypeScript · C# / .NET · React · Python
 </p>
 
 <p align="center">
