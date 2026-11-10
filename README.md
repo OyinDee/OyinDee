@@ -26,6 +26,7 @@ transaction integrity, and interfaces other people can actually use.
 
 | Project | What it is | Stack |
 |---|---|---|
+| **[meridian](https://github.com/OyinDee/meridian)** | Core-banking platform: double-entry ledger with hash-chained tamper evidence, idempotent transfers, loans, FX and risk checks, plus a React online-banking UI. | NestJS · Prisma · PostgreSQL · React · TypeScript |
 | **[Coop-Software](https://github.com/OyinDee/Coop-Software)** | Cooperative society management: member savings, loans, commodity purchases, bank records and month-end reconciliation. | React · Vite · Node · SQL |
 | **[byte-react](https://github.com/OyinDee/byte-react)** | React client for the MongoByte food-ordering platform: group orders, reorder, payments, discounts and notifications. | React · JavaScript · REST |
 | **[wispah](https://github.com/OyinDee/wispah)** | Next.js client for Wispa, the anonymous messaging platform. | Next.js · TypeScript · Tailwind |
@@ -52,8 +53,6 @@ transaction integrity, and interfaces other people can actually use.
 | Project | What it is | Stack |
 |---|---|---|
 | **[divine-raylight](https://github.com/OyinDee/divine-raylight)** | Marketing site with a Firebase-backed blog, rich-text editor and a Tailwind design system. | React · Firebase · Tailwind · Tiptap |
-
-<!-- bankApp: add to Full-stack products once the repo is public. -->
 
 ### Toolbox
 
